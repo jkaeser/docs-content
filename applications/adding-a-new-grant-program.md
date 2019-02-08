@@ -4,7 +4,6 @@ path: /applications/adding-fields-to-applications
 title: Adding Fields to Applications
 keywords: "applications, fields, manage fields, field management, foobar"
 docsType: docs
-docs_section: Applications
 weight: 5
 ---
 Build an application form for a program by adding fields to the application type. The application types are created automatically when a new program is added.
