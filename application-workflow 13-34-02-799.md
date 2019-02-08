@@ -6,6 +6,7 @@ title: Application Workflow
 docsType: docs
 docs_section: Application Workflow
 icon: tasks
+video: ''
 ---
 Each application will have a 'Status' to indicate its progress through your workflow. The default workflow goes like:
 

@@ -6,6 +6,7 @@ docsType: docs
 docs_section: Application Cycles
 icon: sync-alt
 weight: 5
+video: ''
 ---
 Application cycles are periodic (typically annual) application rounds for a program. For example, if your program is ‘Performing Arts Program’, you may have cycles for ‘2017 Performing Arts Program’ and ‘2018 Performing Arts Program’. Cycles are used for scheduling when applications can be created on the site.
 
