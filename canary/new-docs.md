@@ -3,11 +3,13 @@ templateKey: docs
 path: /canary/new-docs
 title: New Docs
 keywords: "foo, bar"
-docsType: docs
-docs_section: New Docs
 weight: 2
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae elit vitae purus vehicula volutpat in quis velit. Mauris eu nibh pharetra, sollicitudin libero in, maximus elit. Nulla semper condimentum turpis et ultricies. Etiam ut ipsum vitae quam facilisis tristique sit amet consectetur orci. Ut nec felis suscipit, bibendum lacus et, hendrerit sapien. Nullam iaculis sollicitudin accumsan. Curabitur sed `odio sit amet` sem malesuada cursus in id felis. Phasellus ut dui sed arcu tincidunt imperdiet vitae id diam. Sed semper ipsum eu risus pharetra, nec aliquet tortor mattis. Vivamus mattis [accumsan imperdiet](/). Vivamus mollis tempus aliquet. Cras eget tincidunt neque. Mauris mattis scelerisque nisi, ac tempus elit molestie id.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae elit vitae purus vehicula volutpat in quis velit. Mauris eu nibh pharetra, sollicitudin libero in, maximus elit. Nulla semper condimentum turpis et ultricies. Etiam ut ipsum vitae quam facilisis tristique sit amet consectetur orci. Ut nec felis suscipit, bibendum lacus et, hendrerit sapien.
+
+![A landscape](landscape.jpg)
+
+Nullam iaculis sollicitudin accumsan. Curabitur sed `odio sit amet` sem malesuada cursus in id felis. Phasellus ut dui sed arcu tincidunt imperdiet vitae id diam. Sed semper ipsum eu risus pharetra, nec aliquet tortor mattis. Vivamus mattis [accumsan imperdiet](/). Vivamus mollis tempus aliquet. Cras eget tincidunt neque. Mauris mattis scelerisque nisi, ac tempus elit molestie id.
 
 - Maecenas efficitur varius justo, eget interdum eros tempor eget.
 - Morbi auctor, purus ut suscipit mattis, **purus dui elementum erat**, vitae pharetra risus tortor nec justo.

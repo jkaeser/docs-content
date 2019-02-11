@@ -9,11 +9,11 @@ You'll know you're logged in to your ApplyCycle site as a site Editor when you s
 
 The Admin Toolbar contains to main sections, 'Manage' and 'Account.' ('Account' will display your username.)
 
-![The Admin Toolbar](/img/screen-shot-2017-10-20-at-2.22.19-pm.png)
+![The Admin Toolbar](media/admin-toolbar.png)
 
 To reveal all submenus related to content editing and site configurations, click on the 'Manage' menu.  To collapse the 'Manage' submenus, click on the 'Manage' menu again.  
 
-![The expanded Admin Toolbar](/img/screenshot-from-2018-11-08-17-21-10.png)
+![The expanded Admin Toolbar](media/admin-toolbar-open.png)
 
 To reveal all submenus related to your user account, click on the 'Account' menu.  To collapse the 'Account' submenus, click on the 'Account' menu again.  
 
