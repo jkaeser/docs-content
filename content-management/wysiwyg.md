@@ -2,8 +2,6 @@
 templateKey: docs
 path: /content-management/WYSIWYG
 title: WYSIWYG
-docsType: docs
-docs_section: Content Management
 weight: 3
 ---
 The WYSIWYG is found throughout the site wherever formatted text can be added.

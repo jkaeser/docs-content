@@ -2,8 +2,6 @@
 templateKey: docs
 path: /content-management/menu
 title: Menu
-docsType: docs
-docs_section: Content Management
 weight: 2
 ---
 You can customize the main menu on your site. Go to **Site Configuration->Menu Items.**

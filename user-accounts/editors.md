@@ -3,8 +3,6 @@ templateKey: docs
 path: /user-accounts/editors
 title: Editors
 keywords: "editors, user accounts"
-docsType: docs
-docs_section: User Accounts
 weight: 5
 ---
 An editor is a staff person who can manage the site.

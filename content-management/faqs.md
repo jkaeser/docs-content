@@ -2,8 +2,6 @@
 templateKey: docs
 path: /content-management/faqs
 title: FAQs
-docsType: docs
-docs_section: Content Management
 weight: 0
 ---
 FAQs (Frequently Asked Questions) are questions and answers you put on the site to provide applicants and potential applicants with information they need about your organization, process, and application requirements.

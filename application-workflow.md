@@ -3,8 +3,6 @@ templateKey: docs
 weight: 5
 path: /application-workflow
 title: Application Workflow
-docsType: docs
-docs_section: Application Workflow
 icon: tasks
 ---
 Each application will have a 'Status' to indicate its progress through your workflow. The default workflow goes like:

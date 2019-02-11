@@ -2,8 +2,6 @@
 templateKey: docs
 path: /applications/managing-application-display
 title: Managing Application Display
-docsType: docs
-docs_section: Applications
 weight: 5
 ---
 Each application type has a **Manage Display** page. This is where you configure the appearance of the previewed/submitted application, including the order and format of the fields.

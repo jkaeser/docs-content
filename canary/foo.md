@@ -3,8 +3,6 @@ templateKey: docs
 path: /canary/foo
 title: Foo
 keywords: "canary"
-docsType: docs
-docs_section: New Docs
 video: media/demo.mov
 weight: 1
 ---

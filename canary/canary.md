@@ -2,8 +2,6 @@
 templateKey: docs
 path: /canary
 title: Canary
-docsType: docs
-docs_section: New Docs
 icon: dove
 weight: 0
 ---

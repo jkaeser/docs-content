@@ -2,8 +2,6 @@
 templateKey: docs
 path: /application-review-tools/review-application-pane
 title: Review Application pane
-docsType: docs
-docs_section: Application Review Tools
 weight: 5
 ---
 When an application has 'Approved for Review' status it will have a link to '**Review Application**' for editors and reviewers. It opens a panel that you can keep open while viewing the application.

@@ -2,8 +2,6 @@
 templateKey: docs
 path: /getting-started
 title: Getting Started
-docsType: docs
-docs_section: Getting Started
 weight: -1
 icon: coffee
 ---

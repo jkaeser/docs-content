@@ -2,8 +2,6 @@
 templateKey: docs
 path: /user-accounts
 title: User Accounts
-docsType: docsSubLanding
-docs_section: User Accounts
 icon: user
 weight: 5
 ---

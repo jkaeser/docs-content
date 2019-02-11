@@ -3,8 +3,6 @@ templateKey: docs
 path: /application-review-tools/all-applications
 title: All Applications per Cycle
 keywords: "applications, cycles, application filter"
-docsType: docs
-docs_section: Application Review Tools
 weight: 5
 ---
 The 'All Applications' page shows you all applications within a Cycle. Find it by going to **Application Management -> Manage Application Cycles** and clicking '**Applications**' for a Cycle.

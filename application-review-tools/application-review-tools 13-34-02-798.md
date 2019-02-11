@@ -2,8 +2,6 @@
 templateKey: docs
 path: /application-review-tools
 title: Application Review Tools
-docsType: docsSubLanding
-docs_section: Application Review Tools
 icon: search
 weight: 5
 ---

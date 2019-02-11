@@ -3,8 +3,6 @@ templateKey: docs
 path: /programs
 title: Programs
 keywords: "programs"
-docsType: docs
-docs_section: Programs
 weight: 5
 icon: th-list
 ---

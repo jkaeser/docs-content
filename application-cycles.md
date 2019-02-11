@@ -2,8 +2,6 @@
 templateKey: docs
 path: /application-cycles
 title: Application Cycles
-docsType: docs
-docs_section: Application Cycles
 icon: sync-alt
 weight: 5
 ---

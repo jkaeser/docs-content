@@ -2,8 +2,6 @@
 templateKey: docs
 path: /admin-toolbar
 title: The Admin Toolbar
-docsType: docs
-docs_section: The Admin Toolbar
 icon: cogs
 weight: 5
 ---

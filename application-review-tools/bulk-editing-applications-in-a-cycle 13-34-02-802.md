@@ -2,8 +2,6 @@
 templateKey: docs
 path: /application-review-tools/bulk-editing
 title: Bulk Editing Applications in a Cycle
-docsType: docs
-docs_section: Application Review Tools
 weight: 5
 ---
 As you manage applications within a cycle, you can save time by using the Bulk Editing page. This page lets you quickly edit certain fields on applications.

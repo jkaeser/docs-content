@@ -2,8 +2,6 @@
 templateKey: docs
 path: /content-management
 title: Content Management
-docsType: docsSubLanding
-docs_section: Content Management
 weight: 3
 icon: book
 ---

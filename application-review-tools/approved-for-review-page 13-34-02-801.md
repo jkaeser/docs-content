@@ -2,8 +2,6 @@
 templateKey: docs
 path: /application-review-tools/approved-for-review
 title: Approved for Review page
-docsType: docs
-docs_section: Application Review Tools
 weight: 5
 ---
 The 'Applications for Review' page shows you all applications within a Cycle that have a status of 'Approved for Review.' Find it by going to **Application Management -> Manage Application Cycles** and clicking '**Applications**' for a Cycle, then going to the '**Approved for Review**' tab.

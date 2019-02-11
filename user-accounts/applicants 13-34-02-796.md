@@ -3,8 +3,6 @@ templateKey: docs
 path: /user-accounts/applicants
 title: Applicants
 keywords: "applicants, account creation"
-docsType: docs
-docs_section: User Accounts
 weight: 5
 ---
 Users need the role of 'Applicant' in order to create applications. To become an applicant, a user must:
