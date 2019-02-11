@@ -4,7 +4,6 @@ path: /content-management
 title: Content Management
 docsType: docsSubLanding
 docs_section: Content Management
-video: ''
 weight: 3
 icon: book
 ---

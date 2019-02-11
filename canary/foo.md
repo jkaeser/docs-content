@@ -5,7 +5,7 @@ title: Foo
 keywords: "canary"
 docsType: docs
 docs_section: New Docs
-video: '/video/demo.mov'
+video: media/demo.mov
 weight: 1
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae elit vitae purus vehicula volutpat in quis velit. Mauris eu nibh pharetra, sollicitudin libero in, maximus elit. Nulla semper condimentum turpis et ultricies. Etiam ut ipsum vitae quam facilisis tristique sit amet consectetur orci. Ut nec felis suscipit, bibendum lacus et, hendrerit sapien. Nullam iaculis sollicitudin accumsan. Curabitur sed odio sit amet sem malesuada cursus in id felis. Phasellus ut dui sed arcu tincidunt imperdiet vitae id diam. Sed semper ipsum eu risus pharetra, nec aliquet tortor mattis. Vivamus mattis accumsan imperdiet. Vivamus mollis tempus aliquet. Cras eget tincidunt neque. Mauris mattis scelerisque nisi, ac tempus elit molestie id.
