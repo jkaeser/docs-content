@@ -12,7 +12,7 @@ Users need the role of 'Applicant' in order to create applications. To become an
 * Complete their user profile and press 'Request Approval.'
 * Be manually assigned the Applicant role by an Editor.
 
-![a thing](media/img.)
+![a thing](../media/admin-toolbar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYyMDE2NTJdfQ==
+eyJoaXN0b3J5IjpbMjEwNzk0OTEwOF19
 -->
