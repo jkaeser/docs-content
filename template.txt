@@ -1,7 +1,4 @@
 ---
-# This line must be included in each documentation page.
-templateKey: docs
-
 # The title of the page.
 title: Test
 
