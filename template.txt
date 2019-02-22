@@ -1,25 +1,25 @@
 ---
 # The title of the page.
-title: Test
+title:
 
-# Beginning with a forward slash, enter the URL path of this page.
-path: /path/to/page
+# Beginning with a forward slash, enter the URL path of this page (e.g. "/path/to/page").
+path:
 
 # The page's weight, which must be an integer (i.e. no decimals), determines its relative position in menus. Lighter weights (e.g. 1, -99) will appear higher in menus. Heavier weights (e.g. 2, 99) will appear lower in menus.
-weight: 5
+weight:
 
-# A comma-separated list of keywords used for search.
-keywords: "test, page"
+# A comma-separated list of keywords used for search (e.g. "test, page").
+keywords:
 
 # Enter the identifier for a FontAwesome icon. See https://fontawesome.com/icons?d=gallery&m=free for a list of available icons. The icon appears on the home page grid if this is a top-level navigation item.
 icon:
 
-# Optionally add a video to the top of the page. First, upload a video to this repository, and then type the relative path to the file. For example, if this file is in the root of the repository and your video is in media/video.mov, you should enter 'media/video.mov'.
+# Optionally add a video to the top of the page. First, upload a video to this repository, and then type the full file name including the extension (e.g. "demo-video.mov", or "demo-video.mp4").
 video:
 ---
 
 This is where you add the page copy. See https://www.markdownguide.org/cheat-sheet/ for help writing with Markdown.
 
-If you would like to add an image, first upload it to the "media" folder. You could add the image somewhere else if you'd like, but putting all images in "media" will help keep your file management neat. Then, include the relative path to the image file in the image markdown syntax. For example:
+If you would like to add an image, first upload it to the "media" folder. You could add the image somewhere else if you'd like, but putting all images in "media" will help keep your file management neat. Then, include the file name in the image markdown syntax. For example:
 
-![The image's alt text](media/image.png)
+![The image's alt text](image.png)
