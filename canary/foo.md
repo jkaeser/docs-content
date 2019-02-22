@@ -3,7 +3,7 @@ templateKey: docs
 path: /canary/foo
 title: Foo
 keywords: "canary"
-video: media/demo.mov
+video: demo.mov
 weight: 1
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae elit vitae purus vehicula volutpat in quis velit. Mauris eu nibh pharetra, sollicitudin libero in, maximus elit. Nulla semper condimentum turpis et ultricies.
