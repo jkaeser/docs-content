@@ -43,13 +43,24 @@ Maecenas efficitur varius justo, eget interdum eros tempor eget. Morbi auctor, p
 Donec quis luctus arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut quis bibendum nulla, non elementum nunc. Etiam tempus iaculis faucibus.
 
 #### Header 4
-Nulla semper condimentum turpis et ultricies. Etiam ut ipsum vitae quam facilisis tristique sit amet consectetur orci.
+Nulla semper condimentum turpis et ultricies. ~~Etiam ut ipsum~~ vitae quam facilisis tristique sit amet consectetur orci.
 
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 2. Morbi vitae elit vitae purus vehicula volutpat in quis velit.
 3. Mauris eu nibh pharetra, sollicitudin libero in, maximus elit.
-4. Nulla semper condimentum turpis et ultricies.
+4. Nulla semper condimentum turpis et ultricies.[^1]
 
 ##### Header 5
 
+| Heading 1 | Heading 2 | Heading 3 |
+| :--- | :---: | ---: |
+| Lorem ipsum | Dolor sit amet | consectetur adipiscing |
+| Maecenas efficitur varius | eget interdum eros | Morbi auctor |
+| Vestibulum semper |Nulla semper | condimentum turpis et ultricies |
+
 ###### Header 6
+
+- [ ] Unchecked task list item
+- [x] Checked task list item
+
+[^1] Footnote definition.
