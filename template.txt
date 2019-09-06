@@ -5,6 +5,9 @@ title:
 # Beginning with a forward slash, enter the URL path of this page (e.g. "/path/to/page").
 path:
 
+# Beginning with a forward slash, enter the URL path this page should be redirected to (e.g. "/redirect/to/here").
+redirect_to:
+
 # The page's weight, which must be an integer (i.e. no decimals), determines its relative position in menus. Lighter weights (e.g. 1, -99) will appear higher in menus. Heavier weights (e.g. 2, 99) will appear lower in menus.
 weight:
 
