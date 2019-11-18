@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /content-management/WYSIWYG
+path: /kyt/content-management/WYSIWYG
 title: WYSIWYG
 weight: 3
 ---

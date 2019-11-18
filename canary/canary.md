@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /canary
+path: /reactor/canary
 title: Canary
 icon: dove
 weight: 0

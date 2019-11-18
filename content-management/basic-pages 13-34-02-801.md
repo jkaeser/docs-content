@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /content-management/basic-pages
+path: /kyt/content-management/basic-pages
 title: Basic Pages
 weight: 1
 ---

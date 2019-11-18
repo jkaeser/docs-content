@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /applications/adding-fields-to-applications
+path: /kyt/applications/adding-fields-to-applications
 title: Adding Fields to Applications
 keywords: "applications, fields, manage fields, field management, foobar"
 weight: 5

@@ -1,5 +1,5 @@
 ---
-path: /path/test
+path: /reactor/reactor/path/test
 title: Path Test - Level 1
 keywords: "test"
 weight: 10

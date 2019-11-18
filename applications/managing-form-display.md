@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /applications/managing-form-display
+path: /kyt/applications/managing-form-display
 title: Managing Form Display
 weight: 5
 ---

@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /canary/foo
+path: /reactor/canary/foo
 title: Foo
 keywords: "canary"
 video: media/demo.mov

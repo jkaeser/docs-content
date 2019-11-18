@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /application-review-tools/csv-and-pdf-exports
+path: /reactor/application-review-tools/csv-and-pdf-exports
 title: CSV and PDF Exports
 weight: 5
 ---

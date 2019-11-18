@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /application-cycles
+path: /kyt/application-cycles
 title: Application Cycles
 icon: sync-alt
 weight: 5

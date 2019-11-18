@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /content-management/menu
+path: /kyt/content-management/menu
 title: Menu
 weight: 2
 ---

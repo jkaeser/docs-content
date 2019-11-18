@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /content-management
+path: /kyt/content-management
 title: Content Management
 weight: 3
 icon: book

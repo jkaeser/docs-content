@@ -1,7 +1,7 @@
 ---
 templateKey: docs
 weight: 5
-path: /application-workflow
+path: /kyt/application-workflow
 title: Application Workflow
 icon: tasks
 ---

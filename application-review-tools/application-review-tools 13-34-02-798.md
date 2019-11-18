@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /application-review-tools
+path: /reactor/application-review-tools
 title: Application Review Tools
 icon: search
 weight: 5

@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /applications/managing-application-display
+path: /kyt/applications/managing-application-display
 title: Managing Application Display
 weight: 5
 ---

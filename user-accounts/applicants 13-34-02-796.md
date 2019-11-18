@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /user-accounts/applicants
+path: /kyt/user-accounts/applicants
 title: Applicants
 keywords: "applicants, account creation"
 weight: 5

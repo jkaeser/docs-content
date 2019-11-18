@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /user-accounts
+path: /kyt/user-accounts
 title: User Accounts
 icon: user
 weight: 5

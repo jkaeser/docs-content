@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /programs
+path: /reactor/programs
 title: Programs
 keywords: "programs"
 weight: 5

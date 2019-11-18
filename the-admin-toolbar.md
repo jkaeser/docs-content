@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /admin-toolbar
+path: /reactor/admin-toolbar
 title: The Admin Toolbar
 icon: cogs
 weight: 5

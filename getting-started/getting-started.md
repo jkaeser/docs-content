@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /getting-started
+path: /reactor/getting-started
 title: Getting Started
 weight: -1
 icon: coffee

@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /user-accounts/reviewers
+path: /kyt/user-accounts/reviewers
 title: Reviewers
 weight: 5
 ---

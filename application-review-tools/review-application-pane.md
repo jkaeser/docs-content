@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /application-review-tools/review-application-pane
+path: /reactor/application-review-tools/review-application-pane
 title: Review Application pane
 weight: 5
 ---

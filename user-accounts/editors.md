@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /user-accounts/editors
+path: /kyt/user-accounts/editors
 title: Editors
 keywords: "editors, user accounts"
 weight: 5

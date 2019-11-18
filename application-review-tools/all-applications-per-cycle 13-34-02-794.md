@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /application-review-tools/all-applications
+path: /reactor/application-review-tools/all-applications
 title: All Applications per Cycle
 keywords: "applications, cycles, application filter"
 weight: 5

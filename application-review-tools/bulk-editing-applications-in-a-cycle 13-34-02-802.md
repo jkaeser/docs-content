@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /application-review-tools/bulk-editing
+path: /reactor/application-review-tools/bulk-editing
 title: Bulk Editing Applications in a Cycle
 weight: 5
 ---

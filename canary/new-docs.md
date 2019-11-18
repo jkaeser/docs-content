@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /canary/new-docs
+path: /reactor/canary/new-docs
 title: New Docs
 keywords: "foo, bar"
 weight: 2

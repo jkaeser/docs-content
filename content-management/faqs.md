@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /content-management/faqs
+path: /kyt/content-management/faqs
 title: FAQs
 weight: 0
 ---

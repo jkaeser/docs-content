@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: /application-review-tools/approved-for-review
+path: /reactor/application-review-tools/approved-for-review
 title: Approved for Review page
 weight: 5
 ---

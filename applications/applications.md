@@ -1,6 +1,6 @@
 ---
 templateKey: docs
-path: "/applications"
+path: "/kyt/applications"
 title: Applications
 icon: file-invoice
 weight: 1
